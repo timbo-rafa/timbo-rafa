@@ -9,8 +9,8 @@ Essas demonstrações estão em servidores gratuitos (Heroku, por exemplo), em q
 
 ## Destaques
 
-| Linguagem | Nome | Descrição | Componentes
-| ---    | --- | --- | ---
+| Linguagem | Nome | Descrição | Tópicos
+| ---:   | --- | --- | ---
 | Python | [Distributed Cache](https://github.com/timbo-rafa/geo-cache) | cache distribuída com tolerância à falhas | Flask, API, Couchbase, Pypi, Testes unitários
 | HTML   | [rtimbo.com](https://rtimbo.com) | Site Pessoal | HTML, Javascript, CSS, Lazy Loading
 | Android| [Shopping Basket](https://github.com/timbo-rafa/android-shoppingbasket) | E-commerce app simples | Android, UI
@@ -21,17 +21,17 @@ Essas demonstrações estão em servidores gratuitos (Heroku, por exemplo), em q
 ## Buscas
 
 Algumas buscas a se considerar:
-| Tag        |  Link                                                              | Descrição
+| Marcador   |  Link                                                              | Descrição
 | ---:       | -----                                                              | ---
-| Frontend:  |  https://github.com/timbo-rafa?tab=repositories&q=frontend+demo    | Interfaces frontend
-| Backend:   |  https://github.com/timbo-rafa?tab=repositories&q=backend+demo     | Servidores backend
-| Testes:    |  https://github.com/timbo-rafa?tab=repositories&q=test+demo        | Testes unitários
-| React:     |  https://github.com/timbo-rafa?tab=repositories&q=react+demo       | Frontend usando a biblioteca ReactJS
-| Javascript:|  https://github.com/timbo-rafa?tab=repositories&q=javascript+demo  | Linguagem JavaScript
-| Nodejs:    |  https://github.com/timbo-rafa?tab=repositories&q=nodejs+demo      | Interpretador Node.js
-| Python:    |  https://github.com/timbo-rafa?tab=repositories&q=python+demo      | Linguagem Python
-| Templates: |  https://github.com/timbo-rafa?tab=repositories&q=template         | Templates para novos projetos
-| Demo:      |  https://github.com/timbo-rafa?tab=repositories&q=demo             | Projetos selecionados para demonstração
+| Frontend  |  https://github.com/timbo-rafa?tab=repositories&q=frontend+demo    | Interfaces frontend
+| Backend   |  https://github.com/timbo-rafa?tab=repositories&q=backend+demo     | Servidores backend
+| Testes    |  https://github.com/timbo-rafa?tab=repositories&q=test+demo        | Testes unitários
+| React     |  https://github.com/timbo-rafa?tab=repositories&q=react+demo       | Frontend usando a biblioteca ReactJS
+| Javascript|  https://github.com/timbo-rafa?tab=repositories&q=javascript+demo  | Linguagem JavaScript
+| Nodejs    |  https://github.com/timbo-rafa?tab=repositories&q=nodejs+demo      | Interpretador Node.js
+| Python    |  https://github.com/timbo-rafa?tab=repositories&q=python+demo      | Linguagem Python
+| Templates |  https://github.com/timbo-rafa?tab=repositories&q=template         | Templates para novos projetos
+| Demo      |  https://github.com/timbo-rafa?tab=repositories&q=demo             | Projetos selecionados para demonstração
 
 ## English version
 
