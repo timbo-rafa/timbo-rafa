@@ -11,17 +11,17 @@ Thus, the first-time initialization may take some seconds. After this, it is muc
 ### Queries
 
 Some queries to consider:
-| Tag        |  Link 
-| ---:       | ----- 
-| Frontend:  |  https://github.com/timbo-rafa?tab=repositories&q=frontend+demo
-| Backend:   |  https://github.com/timbo-rafa?tab=repositories&q=backend+demo
-| Testes:    |  https://github.com/timbo-rafa?tab=repositories&q=test+demo
-| React:     |  https://github.com/timbo-rafa?tab=repositories&q=react+demo
-| Javascript:|  https://github.com/timbo-rafa?tab=repositories&q=javascript+demo
-| Nodejs:    |  https://github.com/timbo-rafa?tab=repositories&q=nodejs+demo
-| Python:    |  https://github.com/timbo-rafa?tab=repositories&q=python+demo
-| Templates: |  https://github.com/timbo-rafa?tab=repositories&q=template
-| Demo:      |  https://github.com/timbo-rafa?tab=repositories&q=demo
+| Tag        |  Link                                                              | Description
+| ---:       | -----                                                              | ---
+| Frontend:  |  https://github.com/timbo-rafa?tab=repositories&q=frontend+demo    | Front-end interfaces
+| Backend:   |  https://github.com/timbo-rafa?tab=repositories&q=backend+demo     | Back-end servers
+| Testes:    |  https://github.com/timbo-rafa?tab=repositories&q=test+demo        | Unit tests
+| React:     |  https://github.com/timbo-rafa?tab=repositories&q=react+demo       | ReactJS frontends
+| Javascript:|  https://github.com/timbo-rafa?tab=repositories&q=javascript+demo  | JavaScript Language
+| Nodejs:    |  https://github.com/timbo-rafa?tab=repositories&q=nodejs+demo      | Node.js runtime
+| Python:    |  https://github.com/timbo-rafa?tab=repositories&q=python+demo      | Python Language
+| Templates: |  https://github.com/timbo-rafa?tab=repositories&q=template         | Templates for new projects
+| Demo:      |  https://github.com/timbo-rafa?tab=repositories&q=demo             | Selected projects for demos
 
 
 

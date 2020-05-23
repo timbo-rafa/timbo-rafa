@@ -19,7 +19,7 @@ Algumas buscas a se considerar:
 | Javascript:|  https://github.com/timbo-rafa?tab=repositories&q=javascript+demo  | Linguagem JavaScript
 | Nodejs:    |  https://github.com/timbo-rafa?tab=repositories&q=nodejs+demo      | Interpretador Node.js
 | Python:    |  https://github.com/timbo-rafa?tab=repositories&q=python+demo      | Linguagem Python
-| Templates: |  https://github.com/timbo-rafa?tab=repositories&q=template         | Templates de projetos
+| Templates: |  https://github.com/timbo-rafa?tab=repositories&q=template         | Templates para novos projetos
 | Demo:      |  https://github.com/timbo-rafa?tab=repositories&q=demo             | Projetos selecionados para demonstração
 
 ### English version
