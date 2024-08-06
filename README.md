@@ -5,9 +5,6 @@ Welcome to my code repository.
 Repositories tagged with `demo` are demonstrations that I use on interviews if possible/requested.
 `frontend` usually are zero-installation demos and you can run it live on the browser, except for native android apps, which are on Google Play, or a few non-web programs.
 
-These live demos are on free servers (Heroku at the time of writing), in which the server may sleep if idle.
-Thus, the first-time initialization may take some seconds. After this, it is much faster.
-
 ## Highlights
 
 | Language | Name | Description | Features
