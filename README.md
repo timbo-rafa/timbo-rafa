@@ -19,7 +19,7 @@ Thus, the first-time initialization may take some seconds. After this, it is muc
 | Node.js| [Heartbit](https://github.com/timbo-rafa/heartbit-backend) | Heartbit Backend | MongoDB, NoSQL, Rest API, Mocha, Unit Tests
 | Python | [Genetic Algorithm](https://github.com/timbo-rafa/genetic-algorithm) | Genetic algorithm for the TSP Problem | ArgParse, Parallelism, Unit Tests
 
-## Queries
+## Github searches
 
 Some queries to consider:
 | Tag        |  Link                                                              | Description
